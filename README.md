@@ -243,7 +243,7 @@ Note: Use Python version: 3.8.5
   ``` 
   cd to the GitHub Repo till src folder
   ```
-  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
+  Command may look like: `cd C:\Users\.....\gesture-controlled-virtual-mouse\src`
   
   Step 6:
   
