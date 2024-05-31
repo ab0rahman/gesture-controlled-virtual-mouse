@@ -212,7 +212,7 @@ Note: Use Python version: 3.8.5
   
   ### Procedure
   ```bash
-  git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
+  git clone https://github.com/ab0rahman/gesture-controlled-virtual-mouse
   ```
   For detailed information about cloning visit [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
   
@@ -263,10 +263,10 @@ Note: Use Python version: 3.8.5
 
   
 # Collaborators
-  | |  |  |  |  |
-  | ------------- | ------------- | ------------- | ------------- | ------------- |
-  | Viral Doshi | [GitHub](https://github.com/Viral-Doshi) | Email | [LinkedIn](https://www.linkedin.com/in/viral-doshi-5a7737190/) | Instagram |
-  | Nishiket Bidawat | [Github](https://github.com/xenon-19) | [Email](mailto:bidawatnishiket@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nishiket-bidawat-74b419193/) | [Instagram](https://myanimelist.net/profile/Xenon1901) |
-  | Ankit Sharma | [GitHub](https://github.com/ankit-4129) | [Email](mailto:ankitsharma.rbt@gmail.com) | LinkedIn | Instagram |
-  | Parth Sakariya | [Github](https://github.com/parth-12) | [Email](mailto:parthsakariya12@icloud.com) | [LinkedIn](https://www.linkedin.com/in/parth-sakariya-1886b2193/) | [Instagram](https://www.instagram.com/parth_sak12/) |
+  | |  |  |
+  | ------------- | ------------- | ------------- | 
+
+  | Abdur Rahman | [Github](https://github.com/ab0rahman) | [Email](mailto:letsmail.him@gmail.com) | 
+  | Ankit Sharma | [GitHub](https://github.com/ankit-4129) | [Email](mailto:ankitsharma.rbt@gmail.com) | 
+  | Parth Sakariya | [Github](https://github.com/parth-12) | [Email](mailto:parthsakariya12@icloud.com) | 
   
