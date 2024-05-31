@@ -263,10 +263,9 @@ Note: Use Python version: 3.8.5
 
   
 # Collaborators
-  | |  |  |
-  | ------------- | ------------- | ------------- | 
-
   | Abdur Rahman | [Github](https://github.com/ab0rahman) | [Email](mailto:letsmail.him@gmail.com) | 
-  | Ankit Sharma | [GitHub](https://github.com/ankit-4129) | [Email](mailto:ankitsharma.rbt@gmail.com) | 
+  
+  | Kondapalli Likhitha | [GitHub](https://github.com/ankit-4129) | [Email](mailto:kondapallilikhitha.20.it@anits.edu.in) | 
+  
   | Parth Sakariya | [Github](https://github.com/parth-12) | [Email](mailto:parthsakariya12@icloud.com) | 
   
