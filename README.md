@@ -20,25 +20,25 @@ Note: Use Python version: 3.8.5
 
 <details>
 <summary>Left Click</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/left%20click.jpg" alt="Left Click" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/left%20click.jpg" alt="Left Click" width="800" height="auto"><br>
  <figcaption>Gesture for single left click</figcaption>
 </details>
 
 <details>
 <summary>Right Click</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/right%20click.jpg?raw=true" alt="Right Click" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/right%20click.jpg?raw=true" alt="Right Click" width="800" height="auto"><br>
  <figcaption>Gesture for single right click</figcaption>
 </details>
 
 <details>
 <summary>Double Click</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/double%20click.jpg?raw=true" alt="Double Click" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/double%20click.jpg?raw=true" alt="Double Click" width="800" height="auto"><br>
  <figcaption>Gesture for double click</figcaption>
 </details>
 
 <details>
 <summary>Scrolling</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Scrolling.jpg?raw=true" alt="Scrolling" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Scrolling.jpg?raw=true" alt="Scrolling" width="800" height="auto"><br>
  <figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
 </details>
 
