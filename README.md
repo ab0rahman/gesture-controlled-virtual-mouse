@@ -267,5 +267,5 @@ Note: Use Python version: 3.8.5
   
   | Kondapalli Likhitha | [GitHub](https://github.com/Likhitha36912) | [Email](mailto:kondapallilikhitha.20.it@anits.edu.in) | 
   
-  | Muralasetti Nanditha | [Github](https://github.com/parth-12) | [Email](mailto:nandhithamuralasetti@gmail.com) | 
+  | Muralasetti Nanditha | [Github]() | [Email](mailto:nandhithamuralasetti@gmail.com) | 
   
