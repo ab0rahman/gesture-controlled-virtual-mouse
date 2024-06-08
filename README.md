@@ -44,43 +44,43 @@ Note: Use Python version: 3.8.5
 
 <details>
 <summary>Drag and Drop</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Drag%20and%20Drop.jpg?raw=true" alt="Drag and Drop" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Drag%20and%20Drop.jpg?raw=true" alt="Drag and Drop" width="800" height="auto"><br>
  <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
 </details>
 
 <details>
 <summary>Multiple Item Selection</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Multiple%20Item%20Selection.jpg?raw=true" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Multiple%20Item%20Selection.jpg?raw=true" width="800" height="auto"><br>
  <figcaption>Gesture to select multiple items</figcaption>
 </details>
 
 <details>
 <summary>Volume Control</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/.%20Volume%20Control.jpg?raw=true" alt="Volume Control" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/.%20Volume%20Control.jpg?raw=true" alt="Volume Control" width="800" height="auto"><br>
  <figcaption>Dynamic Gestures for Volume control. The rate of increase/decrease of volume is proportional to the distance moved by pinch gesture from start point. </figcaption>
 </details>
 
 <details>
 <summary>Brightness Control</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Brightness%20Control.jpg?raw=true" alt="Brightness Control" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Brightness%20Control.jpg?raw=true" alt="Brightness Control" width="800" height="auto"><br>
  <figcaption>Dynamic Gestures for Brightness control. The rate of increase/decrease of brightness is proportional to the distance moved by pinch gesture from start point. </figcaption>
 </details>
 
 <details>
 <summary>Screenshot</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Screenshot.jpg?raw=true" alt="Screenshot" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Screenshot.jpg?raw=true" alt="Screenshot" width="800" height="auto"><br>
  <figcaption>Gestures for screenshot left index. </figcaption>
 </details>
 
 <details>
 <summary>Switch tabs</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Switch%20Tabs.jpg?raw=true" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Switch%20Tabs.jpg?raw=true" width="800" height="auto"><br>
  <figcaption>Gestures for Switching tabs V Gest. </figcaption>
 </details>
 
 <details>
 <summary>Zooming</summary>
-<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Zooming%20Feature.jpg?raw=true" alt="Zooming" width="711" height="400"><br>
+<img src="https://github.com/ab0rahman/gesture-controlled-virtual-mouse/blob/main/media/gesture/Zooming%20Feature.jpg?raw=true" alt="Zooming" width="800" height="auto"><br>
  <figcaption>Gesture for Zooming. </figcaption>
 </details>
 
