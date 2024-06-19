@@ -382,8 +382,9 @@ class Controller:
         The screenshot will be saved in the specified folder with a timestamp as the filename.
         """
         # Specify the folder where you want to save the screenshots
-        folder_path = "C:/Users/91986/finalprjt/screenshot test"
-
+        path = os.path.dirname(os.path.abspath(__file__))
+        folder_path = os.path.join(path, r'screenshot test')
+        
         # Create the folder if it doesn't exist
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
